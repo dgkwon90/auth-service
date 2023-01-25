@@ -1,7 +1,7 @@
 # auth-service
 
  본 프로젝트는 http, JWT 기반의 인증을 통한 로그인 기능을 수행하는   
-인증 서버이다.   
+인증 서비스이다.   
 
 ## Directory 구조
 

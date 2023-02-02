@@ -1,7 +1,9 @@
 package main
 
-import "fmt"
+import (
+	"auth-service/internal/webapp"
+)
 
-func main(){
-	fmt.Println("Hello, Wold")
+func main() {
+	webapp.Start()
 }
